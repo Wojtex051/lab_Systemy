@@ -1,0 +1,9 @@
+Available disks and partitions: 
+/dev/NAME	(SIZE)	MOUNTPOINT
+/dev/sda	(40G)	
+/dev/|-sda1	(39G)	/
+/dev/|-sda2	(1K)	
+/dev/`-sda5	(975M)	[SWAP]
+/dev/sr0	(1024M)	
+
+Available disk space on /dev/sda1: 19G
